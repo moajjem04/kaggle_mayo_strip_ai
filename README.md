@@ -1,0 +1,1 @@
+# kaggle_mayo_strip_ai
